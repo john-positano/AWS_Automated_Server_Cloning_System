@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.409.0",
+    "mysql": "^2.16.0",
+    "simple-ssh": "^1.0.0",
+    "tcp-ping": "^0.1.1"
+  }
+}
